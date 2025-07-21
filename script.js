@@ -12,6 +12,9 @@
     "The Hex": [
       "primary_crux", "arcane_camisado", "arcane_impetus", "arcane_truculence",
       "arcane_bellicose", "secondary_enervate", "arcane_crepuscular"
+    ],
+    "Cephalon Simaris": [
+      "energy_conversion", "health_conversion"
     ]
   };
 
