@@ -36,7 +36,7 @@ Simply open the `index.html` file in a web browser. The application will automat
 4. Highlight the best value arcanes
 
 ## Screenshots
-![Calculator Overview](https://github.com/tdnk-td/legendary-octo-waffle/tree/main/images/arcane.png)
+![Arcane List Overview](https://github.com/tdnk-td/legendary-octo-waffle/blob/main/images/arcane.png)
 
 ## Development
 
